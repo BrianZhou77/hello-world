@@ -1,2 +1,4 @@
 # hello-world
-1st try!
+Happy new year!
+
+Chinese new year is coming!
